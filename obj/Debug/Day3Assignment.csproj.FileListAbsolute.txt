@@ -1,0 +1,7 @@
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\bin\Debug\Day3Assignment.exe.config
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\bin\Debug\Day3Assignment.exe
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\bin\Debug\Day3Assignment.pdb
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\obj\Debug\Day3Assignment.csproj.AssemblyReference.cache
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\obj\Debug\Day3Assignment.csproj.CoreCompileInputs.cache
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\obj\Debug\Day3Assignment.exe
+D:\GitAssignment\Phase 4\Day3\Day3Assignment\Day3Assignment\obj\Debug\Day3Assignment.pdb
